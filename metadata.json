@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Anti-Theft",
+  "description": "Proactive anti-theft security suite featuring fake shutdown simulation, charger disconnect alert, persistent protection service, and secure PIN disarm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

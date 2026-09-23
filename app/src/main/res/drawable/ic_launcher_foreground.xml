@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Shield Outline and Lock -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,20 L30,30 L30,52 C30,68.8 40.2,84.4 54,88 C67.8,84.4 78,68.8 78,52 L78,30 L54,20 Z M54,28 C62,34 70,36.5 70,52 C70,64.2 62.8,75.8 54,79 C45.2,75.8 38,64.2 38,52 C38,36.5 46,34 54,28 Z" />
+    <path
+        android:fillColor="#FF6D00"
+        android:pathData="M54,40 C49.6,40 46,43.6 46,48 L46,52 L44,52 C42.9,52 42,52.9 42,54 L42,66 C42,67.1 42.9,68 44,68 L64,68 C65.1,68 66,67.1 66,66 L66,54 C66,52.9 65.1,52 64,52 L62,52 L62,48 C62,43.6 58.4,40 54,40 Z M54,43 C56.8,43 59,45.2 59,48 L59,52 L49,52 L49,48 C49,45.2 51.2,43 54,43 Z" />
+</vector>
